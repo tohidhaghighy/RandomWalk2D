@@ -16,3 +16,4 @@ Introduction A random walk is a mathematical object, known as a stochastic or ra
 
 Enough with the boring theory. Let’s take a break while getting some knowledge for the code. So, to code out the random walk we will basically require some libraries in python some to do maths and some others to plot the curve.
 
+![Random walk](https://media.geeksforgeeks.org/wp-content/uploads/python-random-walk-highrer-dimensions.jpeg)
